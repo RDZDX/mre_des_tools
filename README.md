@@ -1,4 +1,4 @@
-# mre_des_tools
+# Mre_des_tools
 App demonstrate how to encode/decode data to des.
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
