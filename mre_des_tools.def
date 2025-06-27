@@ -1,0 +1,7 @@
+; mre_des_tools.def : Declares the module parameters for the DLL.
+
+LIBRARY      "mre_des_tools"
+DESCRIPTION  'mre_des_tools Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
